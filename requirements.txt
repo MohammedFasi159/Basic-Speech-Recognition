@@ -1,4 +1,17 @@
+# --- Core App Framework ---
 streamlit
+
+# --- Speech Recognition ---
 speechrecognition
-pyttsx3
 pyaudio
+
+# --- Text to Speech (TTS) Options ---
+pyttsx3
+gtts
+playsound
+
+# --- Audio File Handling ---
+pydub
+
+# --- System Utilities ---
+requests
