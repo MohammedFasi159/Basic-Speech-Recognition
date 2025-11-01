@@ -44,3 +44,4 @@ if st.button("Start Listening"):
     except sr.RequestError:
         st.error("Speech recognition service is unavailable right now.")
 
+
